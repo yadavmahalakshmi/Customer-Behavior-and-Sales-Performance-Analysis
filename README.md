@@ -1,5 +1,5 @@
 ### Customer Behavior & Sales Performance Analysis
-Power BI project analyzing customer behavior patterns and sales performance insights.
+Includes insights on customer segmentation, churn behavior, purchase patterns, and promotional impact.
 
 ## Project Overview
 This project presents a comprehensive analytical study focused on customer behavior patterns and sales performance across multiple product, demographic, and marketing dimensions. Built entirely using Power BI, the analysis explores purchasing trends, customer retention metrics, churn indicators, and sales distribution patterns to uncover insights that support strategic business decision-making. The dashboard integrates customer demographic variables, transactional attributes, promotion effectiveness, and seasonal trends to provide a unified view of overall business performance. By analyzing both customer-centric and sales-centric metrics, the project aims to help organizations understand key growth drivers, identify performance gaps, and optimize marketing and operational strategies.
